@@ -40,6 +40,8 @@ const createWindow = () => {
     mainWindow = null;
   });
 
+  mainWindow.removeMenu();
+
   globalShortcut.register('CmdOrCtrl+Shift+i', () => {
     mainWindow.webContents.toggleDevTools();
   });
