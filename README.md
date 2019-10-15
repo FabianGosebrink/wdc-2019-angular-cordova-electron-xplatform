@@ -1,4 +1,4 @@
-# BASTA 2019 Cross Platform Angular, Cordova and Electron
+# Cross Platform Angular, Cordova and Electron
 
 <p>
   <a href="https://twitter.com/FabianGosebrink">
